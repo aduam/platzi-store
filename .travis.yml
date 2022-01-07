@@ -24,6 +24,6 @@ deploy:
   target_branch: gh-pages
   commit_message: 'Project deployed'
   project_name: 'travis-on-FE-page'
-  github_url: 'https://aduam.githou.io/$PUBLIC_URL'
+  github_url: 'https://aduam.githou.io/travis-on-FE-page'
   on:
     branch: master
